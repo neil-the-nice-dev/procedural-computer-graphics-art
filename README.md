@@ -1,4 +1,4 @@
-# 🎨 Art Informatique - Transformations d'Images et Vidéos Esthétiques
+# 🎨 Art Informatique - Transformations d'Images et Vidéos Esthétiques ( en dev !!! ne marche pas ) 
 
 Un ensemble de programmes Python créatifs qui transforment vos images et vidéos en œuvres d'art numériques avec des effets visuels avancés.
 
